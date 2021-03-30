@@ -22,5 +22,17 @@ Unimplemented Features
 - Live view
 - Arm/disarm entire system
 
+Feel Free to clone and edit the code or use parts of it for your own applications. 
+Please report bugs found.
+
+
+Usage instructions.
+
+Download the zip file to install.
+After installation you will be able to enter your username and password if 2FA is enabled you will recieve a pin via text or email to verify your account. The homescreen will show each of your cameras. You can right click each one to view actions associated with the respective camera. You can view a list of motion event clips under the clips tab. Clicking the clip will download it to a file in your documents folder while also opening it in a separate window to view it. It may download as corrupt and not play.
+
+
+I've noticed after leaving the program running for an extended period that clips do not download corrupt.
+
 
 Special thanks to https://github.com/MattTW/BlinkMonitorProtocol for providing an API
